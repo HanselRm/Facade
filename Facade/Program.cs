@@ -24,6 +24,7 @@ class Program
                     continuar = false;
                 }
                 else 
+
                 { 
                     Console.WriteLine("Ingrese los numeros que quiera hacer la operacion");
                     double numero1 = int.Parse(Console.ReadLine());
