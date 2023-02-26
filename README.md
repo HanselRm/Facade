@@ -5,11 +5,11 @@ En la universidad me pidieron desarrollar el siguiente programa
 
   Programa que tenga las siguientes módulos:
 
-  Una sumadora que realice las 4 operaciones básicas (Suma, Resta, Multiplicacion, Division)
-  Un convertidor de temperaturas ( Farenheit, Celcius, Kelvin)
-    Se requiere que se pueda convertir de cualquiera de estas unidades a cualquiera de las otras
+  1. Una sumadora que realice las 4 operaciones básicas (Suma, Resta, Multiplicacion, Division)
+  2. Un convertidor de temperaturas ( Farenheit, Celcius, Kelvin)
+   Se requiere que se pueda convertir de cualquiera de estas unidades a cualquiera de las otras
 
-        3. Un formulario de registro  (Nombre, Apellido, Fecha Nacimiento, Provincia)
+    3. Un formulario de registro  (Nombre, Apellido, Fecha Nacimiento, Provincia)
 
     Se requiere que el módulo tenga la opcion de mostrar en pantalla lo siguiente:
 
