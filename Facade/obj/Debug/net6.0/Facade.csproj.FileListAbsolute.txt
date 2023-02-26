@@ -28,3 +28,5 @@ C:\Users\hanse\Escritorio\Carpetas\Itla\Programacion\Facade\Facade\Facade\obj\De
 C:\Users\hanse\Escritorio\Carpetas\Itla\Programacion\Facade\Facade\Facade\obj\Debug\net6.0\Facade.pdb
 C:\Users\hanse\Escritorio\Carpetas\Itla\Programacion\Facade\Facade\Facade\obj\Debug\net6.0\Facade.genruntimeconfig.cache
 C:\Users\hanse\Escritorio\Carpetas\Itla\Programacion\Facade\Facade\Facade\obj\Debug\net6.0\ref\Facade.dll
+C:\Users\hanse\Escritorio\Carpetas\Itla\Programacion\Facade\Facade\Facade\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\hanse\Escritorio\Carpetas\Itla\Programacion\Facade\Facade\Facade\obj\Debug\net6.0\Facade.csproj.ResolveComReference.cache
