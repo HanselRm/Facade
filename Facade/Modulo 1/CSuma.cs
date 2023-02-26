@@ -11,6 +11,7 @@ namespace Facade.Modulo_1
         public void operacion(double numero1, double numero2)
         {
             Console.WriteLine("La suma es " + (numero1 + numero2));
+            Console.ReadKey();
         }
     }
 }

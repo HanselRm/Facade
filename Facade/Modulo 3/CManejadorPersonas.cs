@@ -15,20 +15,21 @@ namespace Facade.Modulo_3
             CPersonas perso = new CPersonas();
             Console.WriteLine( "Ingrese los siguientes datos");
 
-            Console.WriteLine("Nombre");
+            Console.Write("Nombre: ");
                 perso.Nombre = Console.ReadLine()??"";
 
-            Console.WriteLine("Apellido");
+            Console.Write("Apellido: ");
                 perso.Apellido = Console.ReadLine() ?? "";
 
-            Console.WriteLine("Fecha Nacimiento en formato dd/MM/yyyy");
+            Console.Write("Fecha Nacimiento en formato dd/MM/yyyy: ");
                 perso.FechaNacimiento = Console.ReadLine()??"";
 
-            Console.WriteLine("Provincia");
+            Console.Write("Provincia: ");
                 perso.Provincia = Console.ReadLine()??"";
-
+            
             p.Add(perso);
-
+            Console.WriteLine("Registro Completo");
+            Console.ReadKey();
             return p;
 
         }   
@@ -59,9 +60,8 @@ namespace Facade.Modulo_3
                                     Edad: {años}
                                     Provincia: {person.Provincia}
                                     ");
-
-                Console.WriteLine("Nombre:");
             }
+            Console.ReadKey();
         }
 
         public static void guardar(List<CPersonas> p)
@@ -102,6 +102,8 @@ namespace Facade.Modulo_3
                 Marshal.ReleaseComObject(workbook);
                 Marshal.ReleaseComObject(excel);
             }
+            Console.WriteLine("Guardado completo");
+            Console.ReadKey();
         }
     }
 }
