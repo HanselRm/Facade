@@ -1,12 +1,16 @@
 ﻿using Facade.Modulo_1;
+using Facade.Modulo_3;
+using Facade.Modulo2;
 
 class Program
 {
-    
+   
     public static void Main(String[] args)
     {
-        Boolean continuar = true;
 
+<<<<<<< HEAD
+        CFacadeGeneral.FacadeGeneral();
+=======
         while (continuar) 
         {
             Console.WriteLine(@"
@@ -35,5 +39,6 @@ class Program
                 }
 
         }
+>>>>>>> 415c1008e9255dbc3e0e4095f3d209c832698a11
     }
 }
